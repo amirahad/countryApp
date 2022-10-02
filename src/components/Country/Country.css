@@ -1,0 +1,15 @@
+.country {
+  background-color: rgb(113, 69, 76);
+  border: 3px solid #038139;
+  border-radius: 10px;
+  margin: 10px;
+  transition: all 0.3s ease;
+}
+.country img {
+  height: 200px;
+  width: 300px;
+  margin-top: 20px;
+}
+.country:hover {
+  transform: scale(1.05);
+}
